@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = CyFreshInfo;
+	cell = PSLinkCell;
+	detail = CyFreshInfoListController;
+	icon = CyFreshInfo.png;
+	isController = 1;
+	label = CyFreshInfo;
+    };
+}

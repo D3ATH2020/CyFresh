@@ -1,0 +1,8 @@
+Package: net.death.cyfresh
+Name: CyFresh 
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Refresh Cydia without opening it!
+Maintainer: D3@TH <deathsrepo@gmail.com>
+Author: D3@TH <deathsrepo@gmail.com>
+Section: System

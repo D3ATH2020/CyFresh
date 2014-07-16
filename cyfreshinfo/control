@@ -1,0 +1,10 @@
+Package: net.death.cyfreshinfo
+Name: CyFreshInfo
+Depends: preferenceloader, firmware (>= 5.0), net.death.cyfresh
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Settings bundle for CyFresh
+Author: D3@TH <deathsrepo@gmail.com>
+Section: Addons
+Icon: file:///Library/PreferencesBundles/CyFreshInfo.bundle/CyFreshInfo.png
+Depiction: http://deathsrepo.cu.cc/info/cyfresh.php
